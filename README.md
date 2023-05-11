@@ -8,7 +8,8 @@
 
 ### Посмотреть макет можно по ссылке ↓
 
-[«Макет Проекта»](https://www.figma.com/file/cGiStCX61OSwYlqHgCUA6d/Hello-World?node-id=0%3A1)
+[«Макет Проекта»]
+https://www.figma.com/file/TQvtQxAMHWKCsw7UbTt4Y6/ANS?type=design&node-id=0-1&t=nh2PcgG6SwDYQ8oS-0
 
 
 ### Посмотреть сайт можно по ссылке ↓
