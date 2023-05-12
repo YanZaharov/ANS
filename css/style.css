@@ -165,3 +165,11 @@ p{
   padding-top: 13px;
   padding-left: 83px;
 }
+.bottom__newcollect{
+  color:#805FDD;
+}
+.bootom__list {
+  display: flex;
+  gap: 27px;
+  color:#805FDD;
+}
