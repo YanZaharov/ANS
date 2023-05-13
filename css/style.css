@@ -25,6 +25,10 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
 }
+figure{
+  margin: 0;
+  padding: 0;
+}
 .wrapper{
   min-height: 100%;
   display: flex;
@@ -87,16 +91,21 @@ p{
   border-bottom: 1px solid white;
 }
 .footer{
-  padding: 63px 0 33px;
-  color:#fff;
+  margin-top: 30px;
+  padding: 33px 0 33px;
+  color: #fff;
 }
 .footer__menu-list{
   max-width: 230px;
 }
 .footer__menu{
-  display: flex;
+  /* display: flex;
   justify-content: space-evenly;
+  align-items: flex-start; */
+  display: flex;
+  justify-content: space-around;
   align-items: flex-start;
+  margin-right: 50px;
 }
 .footer__menu-title{
   font-size: 16px;
@@ -167,9 +176,62 @@ p{
 }
 .bottom__newcollect{
   color:#805FDD;
+  font-size: 48px;
+  border-bottom: 1px solid #805FDD;
+  font-family: 'Iceland', cursive;
+  margin-left: 60px;
+  padding-left: 59px;
+  margin-right: 442px;
+  margin-top: -35px;
+  opacity: .8;
 }
 .bootom__list {
   display: flex;
-  gap: 27px;
-  color:#805FDD;
+  gap: 19px;
+  color: #805FDD;
+  font-size: 24px;
+  margin-left: -26px;
+  padding-top: 3px;
+}
+.bottom__text-a{
+  color: #DD945F;
+  display: flex;
+  justify-content: center;
+  padding-top: 8px;
+  margin-right: 8px;
+  padding-bottom: 8px;
+}
+.bottom__text-s{
+  color:#A200CA;
+  font-family: 'Iceland', cursive;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  padding-top: 8px;
+  margin-right: 16px;
+  padding-bottom: 8px;
+}
+.bottom__text-d{
+  color:#5CBACE;
+  display: flex;
+  justify-content: center;
+  padding-top: 8px;
+  margin-right: 14px;
+  padding-bottom: 8px;
+}
+.bottom__text-o{
+  color:#D6CDC2;
+  font-family: 'Iceland', cursive;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  padding-top: 8px;
+  margin-right: 19px;
+  padding-bottom: 8px;
+}
+.bottom{
+  margin-bottom: -46px;
+}
+img {
+  pointer-events: none;
 }
