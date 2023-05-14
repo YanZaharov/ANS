@@ -253,3 +253,140 @@ img {
 .fi{
   margin-bottom: 18px;
 }
+.basket{
+  background-image: url(../img/Rectangle55.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  padding-left: 71px;
+  margin-top: 36px;
+  color:#fff;
+  font-family: 'Iceland', cursive;
+  font-size: 24px;
+  margin-bottom: -44px;
+}
+.basket__list{
+  display: flex;
+}
+.basket__scrum-about{
+  max-width: 344px;
+  padding-top: 35px;
+}
+.basket__list-pay{
+  background-image: url(../img/buybg.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 240px;
+  font-size: 32px;
+  margin-left: 136px;
+}
+.basket__scrum{
+  font-size: 48px;
+}
+.basket__list-scrum{
+  padding-left: 89px;
+}
+.basket__limed{
+  padding-top: 63px;
+}
+.basket__sicopy{
+  padding-top: 12px;
+}
+.basket__list-sol{
+  padding-left: 83px;
+  padding-top: 37px;
+}
+.basket__list-eth{
+  padding-left: 12px;
+  padding-top: 38px;
+}
+.basket__list-btc{
+  padding-left: 12px;
+  padding-top: 38px;
+}
+.basket__list-usd{
+  padding-left: 72px;
+  padding-top: 40px;
+}
+.basket__list-buy{
+  margin-top: 34px;
+  padding-left: 88px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 88px;
+  font-size: 36px;
+  /* background: linear-gradient(0deg, rgba(52, 0, 93, 0.3), rgba(52, 0, 93, 0.8)); */
+  /* background-color: rgba(52, 0, 93, 0.7); */
+  border-radius: 50px;
+  background: radial-gradient(circle,rgba(52, 0, 93, 0.8), rgba(52, 0, 93, 0.7));
+  /* background-color: rgba(130, 53, 255, 0.15); */
+  /* rgba(120, 12, 93, 1) */
+  /* border-radius: 25px;
+  padding: 19px 44px;
+  max-width: 230px;
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 40px; */
+}
+.aboutproduct{
+  color:#fff;
+  font-family: 'Iceland', cursive;
+  font-size: 20px;
+  margin-bottom: -42px;
+}
+.aboutproduct__list{
+  display: flex;
+}
+.aboutproduct__about-h1{
+  font-size: 48px;
+  margin-top: -22px;
+  padding-left: 120px;
+}
+.aboutproduct__list-sol{
+  font-size: 26px;
+  padding: 10px;
+  margin-left: 39px;
+}
+.aboutproduct__list-buy{
+  font-size: 26px;
+  background-color: rgba(52, 0, 93, 0.8);
+  border-radius: 12px;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 5px;
+}
+.aboutproduct__about{
+  max-width: 818px;
+  padding-left: 29px;
+}
+.aboutproduct__list-img{
+  padding-top: 26px;
+  margin-left: -10px;
+}
+.aboutproduct__list-b{
+  display: flex;
+}
+.aboutproduct__about1{
+  margin-top: -4px;
+}
+.aboutproduct__about2{
+  margin-top: 12px;
+}
+.aboutproduct__about3{
+  margin-top: 14px;
+}
+.aboutproduct__about4{
+  margin-top: 10px;
+}
+.aboutproduct__about5{
+  margin-top: 12px;
+}
+.aboutproduct__about6{
+  margin-top: 10px;
+}
+.aboutproduct__about7{
+  margin-top: 12px;
+}
+.aboutproduct__about8{
+  margin-top: 14px;
+}
