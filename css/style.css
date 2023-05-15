@@ -390,3 +390,47 @@ img {
 .aboutproduct__about8{
   margin-top: 14px;
 }
+.series__animal-list{
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: -36px;
+}
+.series__spacer-list{
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: -36px;
+}
+.series__dragonl-list{
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: -36px;
+}
+.series__oldtowns-list{
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: -36px;
+}
+.main{
+  color:#fff;
+  font-family: 'Iceland', cursive;
+  font-size: 24px;
+}
+.series__animal-b{
+  display: flex;
+}
+.series__buy{
+  padding: 10px;
+  background-color: rgba(52, 0, 93, 0.8);
+  border-radius: 12px;
+}
+.series__sol{
+  padding: 10px;
+}
+.series{
+  font-size: 32px;
+  text-align: center;
+  padding-top: 21px;
+}
+.series__animal-name{
+  text-align: center;
+}
