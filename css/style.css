@@ -40,7 +40,7 @@ body{
   padding: 0;
   font-family: 'Abel', sans-serif;
   line-height: 1;
-  background-image: url(../img/fin.png);
+  /* background-image: url(../img/fin.png); */
   background-repeat: no-repeat;
   background-position: top;
 }
@@ -144,7 +144,7 @@ p{
 }
 .top__about{
   padding-bottom: 0px;
-  margin-bottom: 28px;
+  margin-bottom: 35px;
   font-size: 64px;
   max-width: 450px;
 }
@@ -152,19 +152,17 @@ p{
   color: #805FDD;
   font-size: 48px;
   max-width: 350px;
-  margin-bottom: 72px;
+  margin-bottom: 56px;
   opacity: .4;
 }
 .top__link{
   color: #fff;
+  font-size: 48px;
   background-color: rgba(130, 53, 255, 0.15);
   border-radius: 25px;
   padding: 19px 44px;
-  /* max-width: 230px;
-  width: 100%;
-  display: inline-block; */
-  font-size: 48px;
-  /* margin-bottom: 40px; */
+  display: inline-block;
+  margin-bottom: 55px;
 }
 .top-list{
   display: flex;
@@ -182,7 +180,7 @@ p{
   margin-left: 60px;
   padding-left: 59px;
   margin-right: 442px;
-  margin-top: 0px;
+  margin-top: -44px;
   opacity: .8;
 }
 .bootom__list {
@@ -254,7 +252,7 @@ img {
   margin-bottom: 18px;
 }
 .basket{
-  background-image: url(../img/Rectangle55.png);
+  /* background-image: url(../img/Rectangle55.png); */
   background-repeat: no-repeat;
   background-position: top;
   padding-left: 71px;
@@ -272,7 +270,7 @@ img {
   padding-top: 35px;
 }
 .basket__list-pay{
-  background-image: url(../img/buybg.png);
+  /* background-image: url(../img/buybg.png); */
   background-repeat: no-repeat;
   background-position: top;
   min-width: 240px;
