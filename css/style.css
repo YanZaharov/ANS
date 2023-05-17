@@ -413,7 +413,7 @@ img {
   font-family: 'Iceland', cursive;
   font-size: 24px;
 }
-.series__animal-b{
+.series__b{
   display: flex;
 }
 .series__buy{
@@ -429,6 +429,6 @@ img {
   text-align: center;
   padding-top: 21px;
 }
-.series__animal-name{
+.series__name{
   text-align: center;
 }
