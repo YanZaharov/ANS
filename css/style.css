@@ -198,6 +198,7 @@ p{
   padding-top: 8px;
   margin-right: 8px;
   padding-bottom: 8px;
+  text-align: center;
 }
 .bottom__text-s{
   color:#A200CA;
@@ -208,6 +209,7 @@ p{
   padding-top: 8px;
   margin-right: 16px;
   padding-bottom: 8px;
+  text-align: center;
 }
 .bottom__text-d{
   color:#5CBACE;
@@ -216,6 +218,7 @@ p{
   padding-top: 8px;
   margin-right: 14px;
   padding-bottom: 8px;
+  text-align: center;
 }
 .bottom__text-o{
   color:#D6CDC2;
@@ -226,6 +229,7 @@ p{
   padding-top: 8px;
   margin-right: 19px;
   padding-bottom: 8px;
+  text-align: center;
 }
 .bottom{
   margin-bottom: -46px;
