@@ -1,0 +1,164 @@
+@media only screen and (max-width: 1200px) {
+  .bootom__list {
+    gap: 13px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .series-a{
+    width: 240px;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+
+  .series-a{
+    width: 180px;
+  }
+  .menu__list {
+    display: flex;
+    gap: 75px;
+  }
+  .bottom__text-s{
+    max-width: 200px;
+  }
+  .bottom__newcollect{
+    margin-right: 280px;
+  }
+  .aboutproduct__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.aboutproduct__about-h1 {
+  margin-top: 25px;
+  text-align: center;
+  padding-bottom: 15px;
+  padding-left: 0px;
+}
+.aboutproduct__about {
+  padding-left: 0px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+}
+
+
+@media only screen and (max-width: 800px) {
+  .top-list{
+    gap: 60px;
+  }
+  .menu__list {
+    gap: 50px;
+  }
+  .series-a{
+    width: 160px;
+  }
+  .bootom__list{
+    gap: 0px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .bottom__text-s{
+    max-width: 140px;
+  }
+  .top__about{
+  font-size: 54px;
+  }
+  .top__about-add{
+    font-size: 40px;
+  }
+  .scrum{
+    margin-right: 15px;
+  }
+  .bottom__newcollect{
+    margin-right: 250px;
+  }
+}
+
+@media only screen and (max-width: 730px) {
+  .bottom__newcollect{
+    font-size: 32px;
+    margin-right: 190px;
+  }
+  .top-list {
+    gap: 20px;
+    justify-content: center;
+    padding-left: 70px;
+  }
+  .header__title{
+    justify-content: space-evenly;
+  }
+  .menu__list {
+    gap: 32px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .footer__menu-link {
+    font-size: 12px;
+}
+.footer__menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  margin-right: 9px;
+  flex-wrap: wrap;
+}
+.scrum {
+  width: 280px;
+}
+.bootom__list {
+  gap: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 517px;
+  justify-content: space-evenly;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.title {
+  font-size: 64px;
+}
+.top__about {
+  font-size: 40px;
+}
+.top__about-add {
+  font-size: 32px;
+}
+.top__link {
+  font-size: 24px;
+}
+.menu__list-link{
+  font-size: 24px;
+}
+.menu__list {
+  gap: 19px;
+  padding-right: 8px;
+  padding-left: 9px;
+}
+.logo{
+  width: 100px;
+}
+.bottom__newcollect {
+  margin-right: 38px;
+}
+.footer__menu {
+  align-items: center;
+  text-align: center;
+}
+}
+
+@media only screen and (max-width: 500px) {
+  .top-list {
+    flex-wrap: wrap;
+}
+}
+
+@media only screen and (max-width: 400px) {
+  .header__title {
+    flex-wrap: wrap;
+}
+}
