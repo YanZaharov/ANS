@@ -37,9 +37,27 @@
   flex-wrap: wrap;
 }
 .series__animal-item{
-  padding-top: 20px;
+  padding-top: 25px;
+}
+.series__spacer-item{
+  padding-top: 25px;
+}
+.series__dragonl-item{
+  padding-top: 25px;
+}
+.series__oldtowns-item{
+  padding-top: 25px;
 }
 .series__animal-list {
+  margin-top: 0px;
+}
+.series__spacer-list {
+  margin-top: 0px;
+}
+.series__dragonl-list {
+  margin-top: 0px;
+}
+.series__oldtowns-list {
   margin-top: 0px;
 }
 }
