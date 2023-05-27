@@ -179,4 +179,10 @@
   .header__title {
     flex-wrap: wrap;
 }
+.container{
+  width: 100%;
+}
+.footer__menu-list {
+  padding-left: 33px;
+}
 }
