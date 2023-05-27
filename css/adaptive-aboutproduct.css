@@ -161,4 +161,17 @@
   .header__title {
     flex-wrap: wrap;
 }
+.container{
+  width: 100%;
+}
+.Scrumaboutproduct{
+  width: 100%;
+}
+.aboutproduct__list {
+  padding-left: 30px;
+  padding-right: 16px;
+}
+.footer__menu-list {
+  padding-left: 33px;
+}
 }

@@ -180,4 +180,13 @@
   .header__title {
     flex-wrap: wrap;
 }
+.container{
+  width: 100%;
+}
+.basket__list {
+  padding-bottom: 25px;
+}
+.footer__menu-list {
+  padding-left: 33px;
+}
 }

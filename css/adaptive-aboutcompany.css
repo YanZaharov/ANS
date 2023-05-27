@@ -161,4 +161,10 @@
 .about__p {
   font-size: 18px;
 }
+.container{
+  width: 100%;
+}
+.footer__menu-list {
+  padding-left: 33px;
+}
 }
