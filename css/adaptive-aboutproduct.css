@@ -149,11 +149,20 @@
   align-items: center;
   text-align: center;
 }
+.aboutproduct__about-h1 {
+  font-size: 32px;
+}
+.aboutproduct__about {
+  font-size: 18px;
+}
 }
 
 @media only screen and (max-width: 500px) {
   .top-list {
     flex-wrap: wrap;
+}
+.aboutproduct__about {
+  font-size: 16px;
 }
 }
 
@@ -173,5 +182,8 @@
 }
 .footer__menu-list {
   padding-left: 33px;
+}
+.aboutproduct__about {
+  font-size: 14px;
 }
 }

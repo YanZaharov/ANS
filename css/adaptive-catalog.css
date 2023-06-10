@@ -173,6 +173,24 @@
   .top-list {
     flex-wrap: wrap;
 }
+.catalog-img{
+width: 200px;
+}
+.series__b {
+  display: flex;
+  padding-left: 0px;
+  justify-content: center;
+}
+.series__name {
+  text-align: center;
+  font-size: 20px;
+}
+.series__sol {
+  font-size: 20px;
+}
+.series__buy {
+  font-size: 20px;
+}
 }
 
 @media only screen and (max-width: 425px) {
@@ -185,4 +203,7 @@
 .footer__menu-list {
   padding-left: 33px;
 }
+.catalog-img{
+  width: 140px;
+  }
 }

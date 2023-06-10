@@ -165,6 +165,9 @@
   max-width: 200px;
   padding-bottom: 15px;
 }
+.basket__scrum-about {
+  font-size: 20px;
+}
 }
 
 @media only screen and (max-width: 500px) {
@@ -173,6 +176,9 @@
 }
 .basket__list {
   padding-left: 0px;
+}
+.basket__scrum-about {
+  font-size: 18px;
 }
 }
 
@@ -188,5 +194,8 @@
 }
 .footer__menu-list {
   padding-left: 33px;
+}
+.basket__scrum-about {
+  font-size: 16px;
 }
 }
